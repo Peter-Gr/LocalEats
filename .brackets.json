@@ -1,0 +1,10 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/groobyp/Apps/LocalEats/plugins/cordova-plugin-console/www/logger.js",
+        "C:/Users/groobyp/Apps/LocalEats/www/js/controllers.js",
+        "C:/Users/groobyp/Apps/LocalEats/platforms/android/assets/www/plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+        "C:/Users/groobyp/Apps/LocalEats/platforms/android/platform_www/cordova-js-src/platform.js",
+        "C:/Users/groobyp/Apps/LocalEats/platforms/android/platform_www/plugins/cordova-plugin-device/www/device.js",
+        "C:/Users/groobyp/Apps/LocalEats/platforms/android/platform_www/plugins/cordova-plugin-splashscreen/www/splashscreen.js"
+    ]
+}
